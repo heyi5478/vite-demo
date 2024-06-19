@@ -1,0 +1,39 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;700;900&family=Prata&display=swap');
+@import url(https://db.onlinewebfonts.com/c/97214b891985329956fb70b2337a54d4?family=MRazor+HK+Xbold);
+
+// Icons
+@import "../../node_modules/bootstrap-icons/font/bootstrap-icons.min.css";
+
+// Bootstrap configuration
+@import "../../node_modules/bootstrap/scss/functions";
+// @import "../../node_modules/bootstrap/scss/variables";
+@import "./variables";
+// @import "./utils/extra-variables"; // Customized Colors
+@import "../../node_modules/bootstrap/scss/variables-dark";
+@import "../../node_modules/bootstrap/scss/maps";
+@import "../../node_modules/bootstrap/scss/mixins";
+// @import "./utilities";
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+// Swiper
+// @import "../../node_modules/swiper/swiper-bundle.min";
+
+// Base
+// @import "./base/base";
+
+// Utilities
+// @import "./utils/helpers";
+
+// Components
+// @import "./components/button";
+
+// Layouts
+@import "./layout/header";
+@import "./layout/footer";
+// @import "./layout/preloader";
+
+// Pages
+@import "./pages/index";
+
+
